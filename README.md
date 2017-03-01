@@ -29,3 +29,14 @@ Run `ng github-pages:deploy` to deploy to GitHub Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+To use this code:
+
+1) Open a command prompt in the project's root directory.
+
+2) Type: npm install This installs the dependencies as defined in the package.json file.
+
+3) Type: ng serve This launches the TypeScript compiler (tsc) to compile the application and wait for changes. 
+It also starts the lite-server and launches the browser to run the application.
