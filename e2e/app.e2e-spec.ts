@@ -1,6 +1,6 @@
 import { AngularQuickstartPage } from './app.po';
 
-describe('angular-quickstart App', function() {
+describe('angular-primeNg App', function() {
   let page: AngularQuickstartPage;
 
   beforeEach(() => {
